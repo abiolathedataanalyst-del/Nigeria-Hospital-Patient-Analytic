@@ -193,9 +193,6 @@ Addressing these challenges through the strategic recommendations outlined above
 **Aminu Abiola Friday**
 Operations Analyst | Data Analytics & Business Intelligence Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
-[![Power BI Portfolio](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](https://app.powerbi.com)
-
 ---
 
 *This project was developed as part of a healthcare analytics portfolio, demonstrating applied skills in Power BI, DAX, data modelling, and business intelligence storytelling.*
